@@ -1,5 +1,5 @@
-@font-face { font-family: SvelteTrial-Bold; src: url("SvelteTrial-Bold.TTF"); }
-@font-face { font-family: LinLibertine_R; src: url("LinLibertine_R.TTF");}
+@font-face { font-family: SvelteTrial-Bold; src: url("../css/SvelteTrial-Bold.TTF"); }
+@font-face { font-family: LinLibertine_R; src: url("../css/LinLibertine_R.ttf");}
 
 * {
 	margin: 0;
@@ -467,12 +467,22 @@ background-color: #9DD9D2;
 	font-size: 30px;
 	font-family: SvelteTrial-Bold;
 	color: #fff;
+	margin-bottom:2%;
+}
+.contactsocmedlist{
+	margin-bottom: 2%;
 }
 .contactsocmed_p{
 	display:inline;
 	font-size:30px;
 	color:#fff;
 	padding:5px;
+}
+.contact_p2{
+	font-size: 30px;
+	font-family: SvelteTrial-Bold;
+	color: #fff;
+	margin-bottom:7%;
 }
 .exp_h1{
 	font-size: 50px;
